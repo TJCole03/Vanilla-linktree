@@ -1,0 +1,9 @@
+body {
+    border: .1rem solid rgb(44, 42, 42);
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
