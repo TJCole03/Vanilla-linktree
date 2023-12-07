@@ -1,6 +1,7 @@
 body {
     border: .1rem solid rgb(44, 42, 42);
     align-items: center;
+    height: 100%;
 }
 
 h1 {
@@ -12,7 +13,20 @@ h1 {
 }
 
 .container{
-    display: flex;
+    position: relative;
+    left: 2.5rem;
+    height: 14rem;
+    width: 5rem;
+    margin: auto;
+    padding: 1.5rem;
+    border: .1rem solid rgb(44, 42, 42);
     align-items: center;
-    justify-content: center;
 }
+
+.link1, .link2, .link3, .link4, .link5 {
+    background-color: antiquewhite;
+    border-radius: 15rem;
+    padding: .5rem;
+    margin-bottom: .3rem;
+}
+
