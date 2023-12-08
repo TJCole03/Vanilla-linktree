@@ -2,6 +2,8 @@ body {
     border: .1rem solid rgb(44, 42, 42);
     align-items: center;
     height: 100%;
+    margin: 0; 
+    padding: 0; 
 }
 
 h1 {
